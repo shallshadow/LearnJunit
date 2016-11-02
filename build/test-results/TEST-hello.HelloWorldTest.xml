@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.HelloWorldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-02T13:47:03" hostname="ubuntu" time="0.002">
+  <properties/>
+  <testcase name="testHello" classname="hello.HelloWorldTest" time="0.002"/>
+  <system-out><![CDATA[Hello man!
+Hello World
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

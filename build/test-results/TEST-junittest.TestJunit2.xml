@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junittest.TestJunit2" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-02T13:47:03" hostname="ubuntu" time="0.002">
+  <properties/>
+  <testcase name="testAdd" classname="junittest.TestJunit2" time="0.002"/>
+  <system-out><![CDATA[No of Test Case = 1
+Test Case Name = testAdd
+Updated Test Case Name = testNewAdd
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
