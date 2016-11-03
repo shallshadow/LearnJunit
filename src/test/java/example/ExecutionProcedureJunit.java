@@ -12,13 +12,13 @@ public class ExecutionProcedureJunit {
     // execute only once,in the starting
     @BeforeClass
     public static void beforeClass() {
-       System.out.println(" in before class ") 
+       System.out.println(" in before class "); 
     }
 
     // execute only once,in the end
     @AfterClass
     public static void afterClass(){
-        System.out.println(" in after class ")
+        System.out.println(" in after class ");
     }
 
     // execute for each test, before executing test
